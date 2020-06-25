@@ -2,8 +2,6 @@ yum groupinstall "Development Tools"
 
 yum install curl-devel openssl-devel git screen
 
-screen
-
 cd /usr/local/src/
 
 git clone https://github.com/tpruvot/cpuminer-multi.git
