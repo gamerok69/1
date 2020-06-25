@@ -1,6 +1,6 @@
-yum groupinstall "Development Tools"
+yum -y groupinstall "Development Tools"
 
-yum install curl-devel openssl-devel git screen
+yum -y install curl-devel openssl-devel git screen
 
 cd /usr/local/src/
 
